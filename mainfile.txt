@@ -1,9 +1,7 @@
 Abcdef
 12345
-<<<<<<< HEAD
 11111111
 
 22222222222
-=======
 Sumaira added.
->>>>>>> 20f7493... my first commit
+
